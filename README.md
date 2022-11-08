@@ -1,7 +1,6 @@
 # Sonicam
 
-### Note
-This is a clone of the main repo https://github.com/Meskupie/Sonicam (now public)
+### This is a clone of the main repo https://github.com/Meskupie/Sonicam (now public)
 
 ---
 
